@@ -1,5 +1,4 @@
 import SwiftUI
-import PencilKit
 
 // MARK: - CanvasView
 struct CanvasView: UIViewRepresentable {
